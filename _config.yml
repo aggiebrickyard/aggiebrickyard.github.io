@@ -9,14 +9,13 @@ email: brickyardeditors@gmail.com
 description: The homesite for the GGE student magazine
 baseurl: "" # the subpath of your site, e.g. /blog
 lang: "en"
-url: "https://ryanpeek.github.io/aggiebrickyard" # the base hostname & protocol for your site
+url: "https://aggiebrickyard.github.io/aggiebrickyard" # the base hostname & protocol for your site
 twitter_username: aggiebrickyard
 github_username:  aggiebrickyard
 disqus_username:
 
 # Build settings
 markdown: kramdown
-theme: voyager
 relative_permalinks: false
 permalink: /:categories/:title/
 
