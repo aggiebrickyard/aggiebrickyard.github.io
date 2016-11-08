@@ -1,35 +1,36 @@
-## Voyager
+# The Aggie Brickyard
 
-Just another jekyll theme. Demo: <http://redvi.github.io/voyager>
+Welcome...this website is build using the **Voyager** jekyll theme (<http://redvi.github.io/voyager>).
 
-### Feathures:
+For more info on the Features and Options, visit the **[voyager github repo](https://github.com/redVi/voyager)**.
 
-All HTML files are compressed (see `_layouts/compress.html`).
+### Notes For Website Maintenance
 
-**Post**
+ - Keep photos compressed if possible, jpgs are fine. Can use `imagemagick` command such as:
 
-All post settings can be changed. Example:
+ > `convert -strip -interlace Plane -gaussian-blur 0.05 -quality 85% source.jpg outfile.jpg`
+
+ - Try export optimized PDFs, a relatively high quality version but at a much smaller size (~10 MB instead of ~100 MB). For most viewing on a computer, the difference in quality isn't worth the large load times.
+
+#### **For Posts**
+
+Use **`layout: post`** in `yaml`.
 
 ```
 ---
 layout: post
-bg: '2016/background.jpg'
+bg: 'background.jpg'
 title: "Post Heading"
-crawlertitle: "page title"
-summary: "post description"
 date: 2016-06-29
 tags : ['front-end']
-slug: post-url
 author: "Author"
 categories: posts
 ---
 ```
 
-`bg` is a path to background of your article. By default backgrounds are placed in the `assets/images` directory.
+#### **For Pages**
 
-**Page**
-
-If page contains `active` tag, it will be show on site menu.
+If page contains `active` tag, it will display as a tab on the site menu.
 
 ```
 ---
@@ -40,20 +41,18 @@ active: about
 ---
 ```
 
-**Archive**
+#### **Archive Page**
 
-Archive page is sorting posts by tags. No more than one tag in one post.
+The Archive page sorts posts by tags. No more than one tag in one post, e.g.:
 
-Good:
+*Good:*
 
 ```
 tags : ['front-end']
 ```
 
-Bad:
+*Bad:*
 
 ```
 tags : ['front-end', 'jekyll']
 ```
-
-Don't forget to change `_config.yml`.

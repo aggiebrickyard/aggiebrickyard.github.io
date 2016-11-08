@@ -1,17 +1,17 @@
 ---
-bg: "YosemiteFalls_SSkalos.jpg"
+bg: "yose_falls_sskalos_small.jpg"
 layout: post
 title:  "Spring: Vol II 2016"
 crawlertitle: "Spring 2016"
-summary: "Spring Forth"
+summary: "<b>Spring Forth (Vol II)</b>"
 date:   2016-05-30
 categories: posts
-tags: ['Issues']
+tags: ['Volumes']
 author: Editors
 ---
 
-Please feel free to [download the PDF](https://dl.dropboxusercontent.com/u/108583959/aggiebrickyard/TAB_SQ2016_bleed_final_hi_REVISION.pdf), however keep in mind it is ~100 MB in size.
+Please feel free to [download the PDF]({{ site.url }}/assets/brickyardpdfs/TAB_SQ2016_optimized.pdf), however keep in mind it is ~10 MB in size.
 
-If you would like a lower resolution version (*less than 2MB*), please see the version below.  
+If you would like a lower resolution version (*less than 2MB*), please see the version below.
 
 {% include embedpdf.html code="iaiza9toqh9whje/TAB_SQ2016_preview.pdf" width=100 height=800 %}
