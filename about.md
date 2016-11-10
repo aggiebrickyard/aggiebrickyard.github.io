@@ -19,7 +19,7 @@ We hope The Aggie Brickyard can serve as a conduit among students and faculty al
 
 __*Your Editors*__
 
-*[Contact Us!](mailto:brickyardeditors@gmail.com)*
+**Ideas? Questions? Concerns?** *[Contact Us!](mailto:brickyardeditors@gmail.com)*
 
 ----
 
