@@ -13,14 +13,14 @@ url: "https://aggiebrickyard.github.io" # the base hostname & protocol for your 
 twitter_username: aggiebrickyard
 github_username:  aggiebrickyard
 disqus_username:
+# Google analytics
+google_analytics: "UA-87131352-1"
 
 # Build settings
 markdown: kramdown
 relative_permalinks: false
 permalink: /:categories/:title/
 
-# Google analytics
-google_analytics: "UA-87131352-1"
 
 # Posts settings
 future: true
