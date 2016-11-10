@@ -3,10 +3,10 @@
   <channel>
     <title>The Aggie Brickyard</title>
     <description>The homesite for the GGE student magazine</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 10 Nov 2016 10:41:49 -0800</pubDate>
-    <lastBuildDate>Thu, 10 Nov 2016 10:41:49 -0800</lastBuildDate>
+    <link>https://aggiebrickyard.github.io/</link>
+    <atom:link href="https://aggiebrickyard.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 10 Nov 2016 15:01:04 -0800</pubDate>
+    <lastBuildDate>Thu, 10 Nov 2016 15:01:04 -0800</lastBuildDate>
     <generator>Jekyll v3.3.0</generator>
     
       <item>
@@ -110,8 +110,8 @@
 &lt;p&gt;&lt;a rel=&quot;license&quot; href=&quot;http://creativecommons.org/licenses/by-nc-nd/4.0/&quot;&gt;&lt;img alt=&quot;Creative Commons License&quot; style=&quot;border-width:0&quot; src=&quot;https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png&quot; /&gt;&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 10 Nov 2016 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000/posts/Callforcontent/</link>
-        <guid isPermaLink="true">http://localhost:4000/posts/Callforcontent/</guid>
+        <link>https://aggiebrickyard.github.io/posts/Callforcontent/</link>
+        <guid isPermaLink="true">https://aggiebrickyard.github.io/posts/Callforcontent/</guid>
         
         <category>Content Call</category>
         
@@ -122,7 +122,7 @@
     
       <item>
         <title>Spring: Vol II 2016</title>
-        <description>&lt;p&gt;Please feel free to &lt;a href=&quot;http://localhost:4000/assets/brickyardpdfs/TAB_SQ2016_optimized.pdf&quot;&gt;download the PDF&lt;/a&gt;, however keep in mind it is ~10 MB in size.&lt;/p&gt;
+        <description>&lt;p&gt;Please feel free to &lt;a href=&quot;https://aggiebrickyard.github.io/assets/brickyardpdfs/TAB_SQ2016_optimized.pdf&quot;&gt;download the PDF&lt;/a&gt;, however keep in mind it is ~10 MB in size.&lt;/p&gt;
 
 &lt;p&gt;If you would like a lower resolution version (&lt;em&gt;less than 2MB&lt;/em&gt;), please see the version below.&lt;/p&gt;
 
@@ -133,8 +133,8 @@
 &lt;p&gt;&lt;a rel=&quot;license&quot; href=&quot;http://creativecommons.org/licenses/by-nc-nd/4.0/&quot;&gt;&lt;img alt=&quot;Creative Commons License&quot; style=&quot;border-width:0&quot; src=&quot;https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png&quot; /&gt;&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 30 May 2016 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/posts/SpringVol/</link>
-        <guid isPermaLink="true">http://localhost:4000/posts/SpringVol/</guid>
+        <link>https://aggiebrickyard.github.io/posts/SpringVol/</link>
+        <guid isPermaLink="true">https://aggiebrickyard.github.io/posts/SpringVol/</guid>
         
         <category>Volumes</category>
         
@@ -145,7 +145,7 @@
     
       <item>
         <title>Winter: Vol I 2016</title>
-        <description>&lt;p&gt;Please feel free to &lt;a href=&quot;http://localhost:4000/assets/brickyardpdfs/TAB_WQ2016_optimized.pdf&quot;&gt;download the PDF&lt;/a&gt;, however keep in mind it is ~9 MB in size.&lt;/p&gt;
+        <description>&lt;p&gt;Please feel free to &lt;a href=&quot;https://aggiebrickyard.github.io/assets/brickyardpdfs/TAB_WQ2016_optimized.pdf&quot;&gt;download the PDF&lt;/a&gt;, however keep in mind it is ~9 MB in size.&lt;/p&gt;
 
 &lt;p&gt;If you would like a lower resolution version (&lt;em&gt;less than 2MB&lt;/em&gt;), please see the version below.&lt;/p&gt;
 
@@ -156,8 +156,8 @@
 &lt;p&gt;&lt;a rel=&quot;license&quot; href=&quot;http://creativecommons.org/licenses/by-nc-nd/4.0/&quot;&gt;&lt;img alt=&quot;Creative Commons License&quot; style=&quot;border-width:0&quot; src=&quot;https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png&quot; /&gt;&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 01 Mar 2016 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000/posts/WinterVol/</link>
-        <guid isPermaLink="true">http://localhost:4000/posts/WinterVol/</guid>
+        <link>https://aggiebrickyard.github.io/posts/WinterVol/</link>
+        <guid isPermaLink="true">https://aggiebrickyard.github.io/posts/WinterVol/</guid>
         
         <category>Volumes</category>
         
@@ -179,8 +179,8 @@
 &lt;p&gt;&lt;a rel=&quot;license&quot; href=&quot;http://creativecommons.org/licenses/by-nc-nd/4.0/&quot;&gt;&lt;img alt=&quot;Creative Commons License&quot; style=&quot;border-width:0&quot; src=&quot;https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png&quot; /&gt;&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 01 Feb 2016 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000/posts/welcome-aggiebrickyard/</link>
-        <guid isPermaLink="true">http://localhost:4000/posts/welcome-aggiebrickyard/</guid>
+        <link>https://aggiebrickyard.github.io/posts/welcome-aggiebrickyard/</link>
+        <guid isPermaLink="true">https://aggiebrickyard.github.io/posts/welcome-aggiebrickyard/</guid>
         
         <category>Welcome</category>
         

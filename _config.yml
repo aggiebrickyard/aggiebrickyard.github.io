@@ -19,8 +19,8 @@ markdown: kramdown
 relative_permalinks: false
 permalink: /:categories/:title/
 
-# Google analytics (UA-8713135201)
-google_analytics: "UA-8713135201"
+# Google analytics
+google_analytics: "UA-87131352-1"
 
 # Posts settings
 future: true
