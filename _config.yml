@@ -20,7 +20,7 @@ relative_permalinks: false
 permalink: /:categories/:title/
 
 # Google analytics (UA-8713135201)
-google_analytics: UA-8713135201
+google_analytics: "UA-8713135201"
 
 # Posts settings
 future: true
