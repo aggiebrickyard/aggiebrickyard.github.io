@@ -12,6 +12,8 @@ For more info on the Features and Options, visit the **[voyager github repo](htt
 
  - Try export optimized PDFs, a relatively high quality version but at a much smaller size (~10 MB instead of ~100 MB). For most viewing on a computer, the difference in quality isn't worth the large load times.
 
+To View site locally use: `bundle exec jekyll serve`
+
 #### **For Posts**
 
 Use **`layout: post`** in `yaml`.

@@ -5,9 +5,44 @@
     <description>The homesite for the GGE student magazine</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 10 Nov 2016 15:10:54 -0800</pubDate>
-    <lastBuildDate>Thu, 10 Nov 2016 15:10:54 -0800</lastBuildDate>
+    <pubDate>Tue, 06 Dec 2016 10:32:59 -0800</pubDate>
+    <lastBuildDate>Tue, 06 Dec 2016 10:32:59 -0800</lastBuildDate>
     <generator>Jekyll v3.3.0</generator>
+    
+      <item>
+        <title>Fall: Vol III 2016</title>
+        <description>&lt;p&gt;&lt;strong&gt;NOW AVAILABLE:&lt;/strong&gt; Fall Issue of The Aggie Brickyard – Gender and Diversity in Ecology&lt;/p&gt;
+
+&lt;p&gt;We are pleased to announce that the Fall 2016 issue of The Aggie Brickyard is available on our website in high and low resolution. This issue is largely themed around Gender and Diversity in Ecology and has several engaging submissions. We hope it generates thoughtful conversation and gives folks a taste of the many perspectives on these issues.&lt;/p&gt;
+
+&lt;p&gt;Additionally, thanks to support from Ted and the GGE, we will have printed copies available shortly (before the holidays!) and will send out a quick announcement on when and where you can pick those up.&lt;/p&gt;
+
+&lt;p&gt;Please keep an eye out for the call for content for the Winter issue of The Brickyard. And as always, your feedback and submission ideas are always welcome.&lt;/p&gt;
+
+&lt;p&gt;Happy Holidays!&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Your Brickyard Editors&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Please feel free to &lt;a href=&quot;http://localhost:4000/assets/brickyardpdfs/TAB_FQ2016_bleed_final_red75.pdf&quot;&gt;download the PDF&lt;/a&gt;, however keep in mind it is ~16 MB in size.&lt;/p&gt;
+
+&lt;p&gt;If you would like a lower resolution version (&lt;em&gt;less than 2MB&lt;/em&gt;), please see the version below.&lt;/p&gt;
+
+&lt;iframe src=&quot;//docs.google.com/viewer?url=https://dl.dropboxusercontent.com/s/ncjnx6t8vvbh225/TAB_V03_2016_preview_low.pdf?dl=0&amp;amp;hl=en_US&amp;amp;embedded=true&quot; class=&quot;gde-frame&quot; style=&quot;width:100%; height:800px; border: none;&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;em&gt;All work within The Aggie Brickyard belongs to its originator and the Brickyard. Proper attribution is required for any non-commercial re-use, any use beyond that requires the express written consent of the author or artist. This &lt;span xmlns:dct=&quot;http://purl.org/dc/terms/&quot; href=&quot;http://purl.org/dc/dcmitype/Text&quot; rel=&quot;dct:type&quot;&gt;work&lt;/span&gt; is licensed under a &lt;a rel=&quot;license&quot; href=&quot;http://creativecommons.org/licenses/by-nc-nd/4.0/&quot;&gt;Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a rel=&quot;license&quot; href=&quot;http://creativecommons.org/licenses/by-nc-nd/4.0/&quot;&gt;&lt;img alt=&quot;Creative Commons License&quot; style=&quot;border-width:0&quot; src=&quot;https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png&quot; /&gt;&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 06 Dec 2016 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/posts/FallVol/</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/FallVol/</guid>
+        
+        <category>Volumes</category>
+        
+        
+        <category>posts</category>
+        
+      </item>
     
       <item>
         <title>Call For Content: Vol III</title>
