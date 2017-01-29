@@ -20,8 +20,9 @@ Please be aware we will only review content that matches between the Form and th
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a>
 ----
 
-### Upload Content Here
+### Steps to Upload Content
 
-<script src="https://ucdavis.app.box.com/upload-widget/embed.js?folderID=17790217653&title=Submit%20File%20to%20AggieBrickyard&instructions=Please%20drag%20your%20content%20into%20this%20box%2C%20or%20click%20and%20upload.&isDescriptionFieldShown=0&isEmailRequired=0&width=385&height=420&token=qee9ggvskwishh8z90jlcx1zyrov3659" type="text/javascript"></script>
+ - 1. [**Fill out Submission Form Here**](https://docs.google.com/forms/d/e/1FAIpQLSdNVxWXlcDyvp8kfgLxzR5ox8_SUOQSplcUyMtnMYH68inw1Q/viewform)
 
-[**Fill out Submission Form Here**](https://docs.google.com/forms/d/e/1FAIpQLSdNVxWXlcDyvp8kfgLxzR5ox8_SUOQSplcUyMtnMYH68inw1Q/viewform)
+ - 2. Go to Box Upload page (see link below). When you click on this link, you will be directed to a Upload page via Box. Please drag or click and upload your content. Make sure file names match what you submitted in the Google Form from Step 1.
+     - [Upload Link](https://ucdavis.app.box.com/upload-widget/preview?folderID=17790217653&title=Submit%20File%20to%20AggieBrickyard&instructions=Please%20drag%20your%20content%20into%20this%20box%2C%20or%20click%20and%20upload.&isDescriptionFieldShown=0&isEmailRequired=0&width=385&height=420&token=qee9ggvskwishh8z90jlcx1zyrov3659)
