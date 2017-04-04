@@ -5,9 +5,44 @@
     <description>The homesite for the GGE student magazine</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 28 Jan 2017 23:53:29 -0800</pubDate>
-    <lastBuildDate>Sat, 28 Jan 2017 23:53:29 -0800</lastBuildDate>
+    <pubDate>Tue, 04 Apr 2017 14:35:05 -0700</pubDate>
+    <lastBuildDate>Tue, 04 Apr 2017 14:35:05 -0700</lastBuildDate>
     <generator>Jekyll v3.3.0</generator>
+    
+      <item>
+        <title>Winter: Vol IV 2017</title>
+        <description>&lt;p&gt;&lt;strong&gt;NOW AVAILABLE:&lt;/strong&gt; Winter Quarter Issue of The Aggie Brickyard – Advocacy and Research in Ecology&lt;/p&gt;
+
+&lt;p&gt;We are pleased to announce that the (slightly delayed) Winter Quarter 2017 issue of The Aggie Brickyard is available on our website in high and low resolution. This issue is largely themed around Advocacy and Research in Ecology and has several engaging submissions. We hope it generates thoughtful conversation and gives folks a taste of the many perspectives on these issues.&lt;/p&gt;
+
+&lt;p&gt;Additionally, thanks to support from Ted and the GGE, we will have printed copies available shortly and will send out a quick announcement on when and where you might be able to find one.&lt;/p&gt;
+
+&lt;p&gt;Please keep an eye out for the call for content for the Spring issue of The Brickyard. And as always, your feedback and submission ideas are always welcome.&lt;/p&gt;
+
+&lt;p&gt;Happy Spring!&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Your Brickyard Editors&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Please feel free to &lt;a href=&quot;http://localhost:4000/assets/brickyardpdfs/TAB_WQ2017_FINAL_reduced75.pdf&quot;&gt;download the PDF&lt;/a&gt;, however keep in mind it is ~16 MB in size.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;iframe src=&quot;https://ucdavis.app.box.com/embed/s/qifig7ey8944bfy3z1v3ro2ta515s4hn&quot; frameborder=&quot;1&quot; allowfullscreen=&quot;&quot; webkitallowfullscreen=&quot;&quot; msallowfullscreen=&quot;&quot; class=&quot;gde-frame&quot; style=&quot;width:100%; height:800px; border: none;&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;em&gt;All work within The Aggie Brickyard belongs to its originator and the Brickyard. Proper attribution is required for any non-commercial re-use, any use beyond that requires the express written consent of the author or artist. This &lt;span xmlns:dct=&quot;http://purl.org/dc/terms/&quot; href=&quot;http://purl.org/dc/dcmitype/Text&quot; rel=&quot;dct:type&quot;&gt;work&lt;/span&gt; is licensed under a &lt;a rel=&quot;license&quot; href=&quot;http://creativecommons.org/licenses/by-nc-nd/4.0/&quot;&gt;Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a rel=&quot;license&quot; href=&quot;http://creativecommons.org/licenses/by-nc-nd/4.0/&quot;&gt;&lt;img alt=&quot;Creative Commons License&quot; style=&quot;border-width:0&quot; src=&quot;https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png&quot; /&gt;&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 04 Apr 2017 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/posts/WinterVol-IV/</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/WinterVol-IV/</guid>
+        
+        <category>Volumes</category>
+        
+        
+        <category>posts</category>
+        
+      </item>
     
       <item>
         <title>Fall: Vol III 2016</title>
@@ -195,29 +230,6 @@
         <guid isPermaLink="true">http://localhost:4000/posts/WinterVol/</guid>
         
         <category>Volumes</category>
-        
-        
-        <category>posts</category>
-        
-      </item>
-    
-      <item>
-        <title>Welcome to the Aggie Brickyard Site!</title>
-        <description>&lt;p&gt;This website was built using the &lt;strong&gt;&lt;a href=&quot;http://redvi.github.io/voyager&quot;&gt;Voyager&lt;/a&gt;&lt;/strong&gt; &lt;a href=&quot;https://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt; theme, and provides a home for The Aggie Brickyard. This publication is entirely grad student inspired and maintained, with the help and input from an amazing group of graduate students, staff, and faculty in the &lt;a href=&quot;http://ecology.ucdavis.edu/&quot;&gt;Graduate Group in Ecology&lt;/a&gt; at &lt;a href=&quot;https://www.ucdavis.edu/&quot;&gt;UC Davis&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;/assets/images/cover_winter16.png&quot;&gt;&lt;img src=&quot;/assets/images/cover_winter16.png&quot; alt=&quot;coverwinter16&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;em&gt;All work within The Aggie Brickyard belongs to its originator and the Brickyard. Proper attribution is required for any non-commercial re-use, any use beyond that requires the express written consent of the author or artist. This &lt;span xmlns:dct=&quot;http://purl.org/dc/terms/&quot; href=&quot;http://purl.org/dc/dcmitype/Text&quot; rel=&quot;dct:type&quot;&gt;work&lt;/span&gt; is licensed under a &lt;a rel=&quot;license&quot; href=&quot;http://creativecommons.org/licenses/by-nc-nd/4.0/&quot;&gt;Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a rel=&quot;license&quot; href=&quot;http://creativecommons.org/licenses/by-nc-nd/4.0/&quot;&gt;&lt;img alt=&quot;Creative Commons License&quot; style=&quot;border-width:0&quot; src=&quot;https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png&quot; /&gt;&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Mon, 01 Feb 2016 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000/posts/welcome-aggiebrickyard/</link>
-        <guid isPermaLink="true">http://localhost:4000/posts/welcome-aggiebrickyard/</guid>
-        
-        <category>Welcome</category>
         
         
         <category>posts</category>
