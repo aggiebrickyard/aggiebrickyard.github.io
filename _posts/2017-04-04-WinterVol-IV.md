@@ -26,8 +26,8 @@ Please feel free to [download the PDF]({{ site.url }}/assets/brickyardpdfs/TAB_W
 
 <br>
 
-<iframe src="https://ucdavis.app.box.com/embed/s/qifig7ey8944bfy3z1v3ro2ta515s4hn" frameborder="1" allowfullscreen webkitallowfullscreen msallowfullscreen class="gde-frame" style="width:100%; height:800px; border: none;" scrolling="no"></iframe>
-
+<iframe
+src="https://ucdavis.box.com/s/qifig7ey8944bfy3z1v3ro2ta515s4hn" style="width:100%; height:880px; border: none;" scrolling="no"></iframe>
 
 *All work within The Aggie Brickyard belongs to its originator and the Brickyard. Proper attribution is required for any non-commercial re-use, any use beyond that requires the express written consent of the author or artist. This <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" rel="dct:type">work</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>*
 
