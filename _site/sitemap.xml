@@ -3,6 +3,24 @@
 
   
   <url>
+    <loc>http://localhost:4000/posts/SummerVol-V/</loc>
+    
+      <lastmod>2017-08-03</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:4000/posts/Call_for_content/</loc>
+    
+      <lastmod>2017-05-26</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
     <loc>http://localhost:4000/posts/WinterVol-IV/</loc>
     
       <lastmod>2017-04-04</lastmod>
