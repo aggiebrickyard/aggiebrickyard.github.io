@@ -73,3 +73,9 @@ tags : ['front-end']
 ```
 tags : ['front-end', 'jekyll']
 ```
+## Building demo of site:
+
+Use the following to build a local preview of the website (this works on macosx):
+
+ - `bundle exec jekyll serve`
+ - Then visit the web address shown in the command line: i.e., *http://127.0.0.1:4000/*
