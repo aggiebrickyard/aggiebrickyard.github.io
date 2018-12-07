@@ -1,24 +1,28 @@
 ---
-bg: "peek-P1120022.jpg"
+bg: "owl.jpg"
 layout: post
-title:  "Call For Content: Vol V"
+title:  "Call For Content: Vol VII 2018"
 crawlertitle: "Call for content"
-summary: "<b>Please Send Us Something by June 8!</b>"
-date: 2017-05-26
+summary: "<b>Send Us Something by October 31!</b>"
+date: 2018-10-01
 categories: posts
 tags: ['Content Call']
 author: Editors
 ---
 
-__*All submissions are due by June 8th. We're open to anything you'd like to submit! In this issue we are exploring topics around teaching and training for the classroom. We welcome any submissions or perspectives folks may have on these topics. Additionally, we are always interested in research updates, perspectives, field stories, etc. If you have an idea for an article, but you'd like help developing it, please let us know. We can work flexibly with deadlines when we're aware an article is being prepared.*__
+__*All submissions are due by October 31st, 2018.*__  
+
+The Brickyard has been on a break for the last couple of months, so we'd like to kick off this academic year with an issue covering just that! We are looking for stories revolving around the theme HIATUS. We welcome any submissions on this topic, as well as any off-theme content.
+
+If you have an idea for an article but you're not sure how to develop it, please let us know! One of our editors would be happy to work with you.
 
 # <font color="#002855">The A</font><font color="#C99700">gg</font><font color="#002855">i</font><font color="#C99700">e</font><font color="#002855"> Brickyard</font> Call for Content
 
 ### Assembling the Blocks of Ecology
 
-The aGGiE Brickyard provides an opportunity to connect with other students and faculty as well as alumni, donors, and future employers. To that end, please see the attached call for content. All submissions must be received by **June 8th at 5pm**.
+Please use [_*this submission form*_](https://docs.google.com/forms/d/e/1FAIpQLSdNVxWXlcDyvp8kfgLxzR5ox8_SUOQSplcUyMtnMYH68inw1Q/viewform) for all submissions. If you encounter any problems, contact the Aggie Brickyard Editors at **_brickyardeditors @ gmail.com_**.
 
-Please send all submissions to the Aggie Brickyard Editors at **_brickyardeditors @ gmail.com_**. In addition to the content that we’re calling for below, feel free to submit anything that you think is worth reading.
+We accept submissions in any of the following categories, and will consider other formats as well. Send us anything you want to share with us!
 
 #### Research Spotlight
 
