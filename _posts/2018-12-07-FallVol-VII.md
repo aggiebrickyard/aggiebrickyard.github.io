@@ -24,7 +24,7 @@ Please feel free to [download the PDF]({{ site.url }}/assets/brickyardpdfs/TAB_F
 
 <br>
 
-<object style="width: 100%; height: 820px" data="/assets/brickyardpdfs/TAB_FQ2018_bleed_draft_med.pdf" type="application/pdf"></object>
+<object style="width: 100%; height: 820px" data="/assets/brickyardpdfs/TAB_FQ2018_bleed_final_med.pdf" type="application/pdf"></object>
 
 *All work within The Aggie Brickyard belongs to its originator and the Brickyard. Proper attribution is required for any non-commercial re-use, any use beyond that requires the express written consent of the author or artist. This <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" rel="dct:type">work</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>*
 
