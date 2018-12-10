@@ -20,7 +20,7 @@ As always, your feedback and submission ideas are always welcome.
 
 *Your Brickyard Editors*
 
-Please feel free to [download the PDF]({{ site.url }}/assets/brickyardpdfs/TAB_FQ2018_bleed_draft_med.pdf), however keep in mind it is ~10 MB in size.
+Please feel free to [download the PDF]({{ site.url }}/assets/brickyardpdfs/TAB_FQ2018_bleed_final_med.pdf), however keep in mind it is ~10 MB in size.
 
 <br>
 
