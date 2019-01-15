@@ -1,7 +1,7 @@
 ---
 bg: "Grijalva_ARHE_MG&W.jpg"
 layout: post
-title:  "Summer: Vol V 2017"
+title:  "Summer: Vol V 2017 'Teaching'"
 crawlertitle: "Summer 2017"
 summary: "<b>Teaching (Vol V)</b>"
 date:   2017-08-03

@@ -1,7 +1,7 @@
 ---
 bg: "Brennan_Ross_DusyBasin2.jpg"
 layout: post
-title:  "Fall: Vol VII 2018"
+title:  "Fall: Vol VII 2018 'Hiatus'"
 crawlertitle: "Fall 2018"
 summary: "<b>Hiatus (Vol VII)</b>"
 date:   2018-12-07

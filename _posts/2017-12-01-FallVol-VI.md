@@ -1,7 +1,7 @@
 ---
 bg: "Aliperti_Jackie_IMG_5063.jpg"
 layout: post
-title:  "Fall: Vol VI 2017"
+title:  "Fall: Vol VI 2017 'Rejection'"
 crawlertitle: "Fall 2017"
 summary: "<b>Rejection (Vol VI)</b>"
 date:   2018-01-04

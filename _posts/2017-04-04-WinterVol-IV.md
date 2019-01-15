@@ -1,7 +1,7 @@
 ---
 bg: "WesternPondTurtle_hires.jpg"
 layout: post
-title:  "Winter: Vol IV 2017"
+title:  "Winter: Vol IV 2017 'Advocacy and Research'"
 crawlertitle: "Winter 2017"
 summary: "<b>Advocacy and Research (Vol IV)</b>"
 date:   2017-04-04

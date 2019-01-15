@@ -1,7 +1,7 @@
 ---
 bg: "allisonsimler.jpg"
 layout: post
-title:  "Winter: Vol I 2016"
+title:  "Winter: Vol I 2016 'It's Alive'"
 crawlertitle: "Winter 2016"
 summary: "<b>It's Alive (Vol I)</b>"
 date:   2016-02-30

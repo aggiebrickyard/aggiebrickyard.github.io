@@ -1,7 +1,7 @@
 ---
 bg: "yose_falls_sskalos_small.jpg"
 layout: post
-title:  "Spring: Vol II 2016"
+title:  "Spring: Vol II 2016 'Spring Forth'"
 crawlertitle: "Spring 2016"
 summary: "<b>Spring Forth (Vol II)</b>"
 date:   2016-05-30
