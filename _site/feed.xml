@@ -5,8 +5,8 @@
     <description>The homesite for the GGE student magazine</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 24 Apr 2019 08:33:01 -0600</pubDate>
-    <lastBuildDate>Wed, 24 Apr 2019 08:33:01 -0600</lastBuildDate>
+    <pubDate>Wed, 24 Apr 2019 08:35:09 -0600</pubDate>
+    <lastBuildDate>Wed, 24 Apr 2019 08:35:09 -0600</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
     
       <item>
@@ -15,7 +15,7 @@
 
 &lt;p&gt;The aGGiE Brickyard provides a platform to share the thoughts and activities of the GGE community. This issue, in addition to our regular features, we’re exploring the question:&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;__What’s on your mind?__&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;What’s on your mind?&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;Share it in The Brickyard, and connect with other students and faculty as well as alumni, donors, and future employers. To that end, please see the attached call for content.&lt;/p&gt;
 

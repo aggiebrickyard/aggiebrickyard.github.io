@@ -1,5 +1,5 @@
 ---
-bg: "tuolumne_peterson.jpg"
+bg: "wickson_peterson.jpg"
 layout: post
 title:  "Call For Content: Vol VIII Spring 2019"
 crawlertitle: "Call for content"
@@ -14,7 +14,7 @@ author: Editors
 
 The aGGiE Brickyard provides a platform to share the thoughts and activities of the GGE community. This issue, in addition to our regular features, we’re exploring the question:
 
-**__What’s on your mind?__**
+**_What’s on your mind?_**
 
 Share it in The Brickyard, and connect with other students and faculty as well as alumni, donors, and future employers. To that end, please see the attached call for content.
 
