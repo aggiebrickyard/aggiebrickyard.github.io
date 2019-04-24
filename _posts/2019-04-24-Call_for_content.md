@@ -14,7 +14,7 @@ author: Editors
 
 The aGGiE Brickyard provides a platform to share the thoughts and activities of the GGE community. This issue, in addition to our regular features, we’re exploring the question:
 
-##*What’s on your mind?*
+**__What’s on your mind?__**
 
 Share it in The Brickyard, and connect with other students and faculty as well as alumni, donors, and future employers. To that end, please see the attached call for content.
 
