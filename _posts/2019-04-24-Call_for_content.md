@@ -9,12 +9,11 @@ categories: posts
 tags: ['Content Call']
 author: Editors
 ---
+**_What’s on your mind?_**
 
 # <font color="#002855">The A</font><font color="#C99700">gg</font><font color="#002855">i</font><font color="#C99700">e</font><font color="#002855"> Brickyard</font>
 
 The aGGiE Brickyard provides a platform to share the thoughts and activities of the GGE community. This issue, in addition to our regular features, we’re exploring the question:
-
-**_What’s on your mind?_**
 
 Share it in The Brickyard, and connect with other students and faculty as well as alumni, donors, and future employers. To that end, please see the attached call for content.
 
