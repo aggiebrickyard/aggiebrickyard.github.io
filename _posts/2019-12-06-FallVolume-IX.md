@@ -1,5 +1,5 @@
 ---
-bg: "Bork in ice channel_Rob Robbins - Nick Framsted.jpg"
+bg: Bork in ice channel_Rob Robbins - Nick Framsted.jpg
 layout: post
 title:  "Fall: Vol IX 2019 'Debate'"
 crawlertitle: "Fall 2019"
