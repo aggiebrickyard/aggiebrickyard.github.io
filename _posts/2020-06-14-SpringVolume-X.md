@@ -1,6 +1,6 @@
 ---
 layout: post
-bg: FERTEL_comrade.jpg
+bg: "FERTEL_comrade.jpg"
 title:  "Spring: Vol X 2020 'Community'"
 crawlertitle: "Spring 2020"
 summary: "<b>Community (Vol X)</b>"
