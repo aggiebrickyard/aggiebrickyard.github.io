@@ -1,6 +1,6 @@
 ---
 layout: post
-bg: "FERTEL_comrade.jpg"
+bg: "FERTEL_comrade.JPG"
 title:  "Spring: Vol X 2020 'Community'"
 crawlertitle: "Spring 2020"
 summary: "<b>Community (Vol X)</b>"
@@ -12,7 +12,7 @@ author: Editors
 
 **NOW AVAILABLE:** Spring Issue of The Aggie Brickyard – Community
 
-We are pleased to announce the Spring 2020 issue of The Aggie Brickyard, themed for the *Community* that marks this graduate group.
+We are pleased to announce the Spring 2020 issue of The Aggie Brickyard, themed for the **Community** that marks this graduate group.
 
 A digital version of the issue is available online. Plus, for the first time ever, we have offered home delivery of print editions to GGE community members around Davis. This was made possible with the support of the Ecology Graduate Student Association. 
 
