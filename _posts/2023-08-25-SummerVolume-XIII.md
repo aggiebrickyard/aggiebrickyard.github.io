@@ -10,7 +10,7 @@ author: "Author"
 categories: posts
 ---
 
-**NOW AVAILABLE** Summer Isue of The Aggie Brickyard - Keystone
+**NOW AVAILABLE** Summer Issue of The Aggie Brickyard - Keystone
 
 We are happy to bring you the Summer 2023 issue of The Aggie Brickyard, **Keystone**.
 Keystone is meant to provide the GGE with a space to reflect joyfully, critically, and creatively on the people, places, institutions and ideas that support us and the role that we ourselves play in supporting our community.
