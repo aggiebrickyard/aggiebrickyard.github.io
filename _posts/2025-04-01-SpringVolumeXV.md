@@ -1,3 +1,4 @@
+---
 layout: post
 bg: "Vicuna_MeganMcDaniels.jpg"
 title: "Spring: Vol XV 'Carpe Davis'"
