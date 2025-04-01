@@ -1,5 +1,5 @@
 layout: post
-bg: "LeastTernWives.png"
+bg: "Vicuna_MeganMcDaniels.jpg"
 title: "Spring: Vol XV 'Carpe Davis'"
 crawlertitle: "Spring 2025"
 summary: "<b>Carpe Davis (Vol XV)</b>"
